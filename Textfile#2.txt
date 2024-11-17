@@ -1,0 +1,1 @@
+Add string code ("ADD New Ficza")/Додано строку коду("ADD New Ficza");
